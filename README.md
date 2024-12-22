@@ -1,6 +1,6 @@
 # Redux
  
-![](https://github.com/Rediska23/TODO_List/blob/main/image.png?raw=true)
+![](https://github.com/Rediska23/Redux/blob/main/image.png?raw=true)
 
 ## Описание проекта
 Данный проект представляет собой простое приложение для создания заметок, их редактирования, сортировки и так далее. 
