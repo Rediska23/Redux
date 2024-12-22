@@ -19,7 +19,13 @@ Notion - это веб-приложение, которое позволяет �
 Показать примечание
 
  2. Используемые технологии
- * React ,TypeScript, Redux, React Hook Form, Zod, React Router, json-server
+ * React
+ * TypeScript
+ * Redux
+ * React Hook Form
+ * Zod
+ * React Router
+ * json-server
 
 
  3. Фильтры и сортировки заметок
